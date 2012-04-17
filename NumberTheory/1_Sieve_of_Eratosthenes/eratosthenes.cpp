@@ -25,6 +25,7 @@ int i=2;
 			}
 		i++;
 		}
+free(isPrime);
 return primes;
 }
 
